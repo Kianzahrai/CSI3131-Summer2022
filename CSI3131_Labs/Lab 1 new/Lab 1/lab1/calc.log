@@ -1,0 +1,27 @@
+
+
+        Monitoring /proc/129/stat:
+
+Time        State           SysTm    UsrTm
+  0     Sleeping(memory)       0        0
+  1     Sleeping(memory)       0        0
+  2     Sleeping(memory)       0        0
+  3     Running                0        0
+  4     Running                0      100
+  5     Sleeping(memory)       0      196
+  6     Sleeping(memory)       0      196
+  7     Sleeping(memory)       0      196
+  8     Running                0      196
+  9     Running                0      293
+ 10     Sleeping(memory)       0      367
+ 11     Sleeping(memory)       0      367
+ 12     Sleeping(memory)       0      367
+ 13     Running                0      393
+ 14     Running                0      493
+ 15     Sleeping(memory)       0      534
+ 16     Sleeping(memory)       0      534
+ 17     Sleeping(memory)       0      534
+ 18     Running                0      593
+ 19     Running                0      692
+ 20     Sleeping(memory)       0      707
+procmon: Cannot open /proc/129/stat, the monitored process is not running any more.

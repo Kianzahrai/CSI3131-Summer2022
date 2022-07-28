@@ -1,0 +1,27 @@
+
+
+        Monitoring /proc/104/stat:
+
+Time        State           SysTm    UsrTm
+  0     Running                1        0
+  1     Sleeping(memory)       3        1
+  2     Sleeping(memory)       3        1
+  3     Sleeping(memory)       3        1
+  4     Running               84        1
+  5     Running              176        6
+  6     Running              268       12
+  7     Running              339       21
+  8     Running              429       25
+  9     Running              526       28
+ 10     Running              621       31
+ 11     Running              714       39
+ 12     Sleeping(memory)     767       43
+ 13     Sleeping(memory)     767       43
+ 14     Sleeping(memory)     767       43
+ 15     Running              807       46
+ 16     Running              900       48
+ 17     Running              993       54
+ 18     Running             1092       56
+ 19     Running             1185       62
+ 20     Running             1279       67
+procmon: Cannot open /proc/104/stat, the monitored process is not running any more.
